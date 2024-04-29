@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="txt_login">LOGIN</string>
+    <string name="txt_reg">REGISTER</string>
+    <string name="txt_todos">My Todos</string>
+</resources>
